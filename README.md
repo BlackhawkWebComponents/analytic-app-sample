@@ -2,6 +2,6 @@ analytic-app-sample
 ================
 
     git clone https://github.com/BlackhawkWebComponents/analytic-app-sample.git
-    bower install
     cd analytic-app-sample
+    bower install
     serve up in whatever http server like python: http-server .
