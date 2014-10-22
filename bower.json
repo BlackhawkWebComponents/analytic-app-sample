@@ -1,0 +1,43 @@
+{
+  "name": "analytic-elements",
+  "homepage": "http://blackhawkwebcomponents.github.io/analytic-elements",
+  "description": "",
+  "main": "analytic-elements.html",
+  "authors": [
+    "Rob Beers"
+  ],
+  "license": "Apache2",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "core-icons": "Polymer/core-icons#master",
+    "font-roboto": "Polymer/font-roboto#master",
+    "analytic-elements": "BlackhawkWebComponents/analytic-elements"
+  },
+  "resolutions": {
+    "font-roboto": "master",
+    "core-icons": "master",
+    "polymer": "master",
+    "core-iconset-svg": "master",
+    "core-icon": "master",
+    "core-component-page": "master",
+    "core-iconset": "master",
+    "platform": "master",
+    "paper-ripple": "master",
+    "core-meta": "master",
+    "google-apis": "master"
+  }
+}
